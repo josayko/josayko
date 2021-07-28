@@ -1,5 +1,5 @@
 ### Hi, I'm Jonny 👋
-
+![Josayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=josayko&show_icons=true&theme=slateorange)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josayko&layout=compact&langs_count=10)](https://github.com/josayko/github-readme-stats)
 
 <!--
