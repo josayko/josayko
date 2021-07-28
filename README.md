@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Python, Django, Typescript, Vue.js**
 
-- 📝 I regularly write articles on [blog.josayko.xyz](blog.josayko.xyz)
+- 📝 I regularly write articles on [blog.josayko.xyz](http://blog.josayko.xyz)
 
 - 💬 Ask me about **Linux, Web development**
 
