@@ -20,6 +20,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 July, 2021 - 02 August, 2021
+
+C++        5 hrs 56 mins   █████████████████████████   99.77 % 
 ```
 <!--END_SECTION:waka-->
