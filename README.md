@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2021 - 24 September, 2021
+Week: 19 September, 2021 - 25 September, 2021
 
 C++        13 hrs 28 mins  ███████████████▓░░░░░░░░░   63.07 % 
 Python     3 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
