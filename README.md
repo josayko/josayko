@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-C++        13 hrs 28 mins  ███████████████▓░░░░░░░░░   63.07 % 
-Python     3 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Makefile   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-CMake      1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Markdown   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+C++        10 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.45 % 
+Python     7 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   36.58 % 
+JSON       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+HTML       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Markdown   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 <!--END_SECTION:waka-->
 
