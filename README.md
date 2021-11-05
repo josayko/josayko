@@ -19,11 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 03 November, 2021
+Week: 29 October, 2021 - 04 November, 2021
 
-C++     6 hrs 25 mins   ████████████████████░░░░░   79.38 % 
-Other   1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.66 % 
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+C++            3 hrs 39 mins   ████████████████████░░░░░   80.13 % 
+Other          51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.87 % 
+HTML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
