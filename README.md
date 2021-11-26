@@ -19,9 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2021 - 24 November, 2021
+Week: 19 November, 2021 - 25 November, 2021
 
-
+C++        3 hrs 8 mins    ███████████████████▓░░░░░   78.84 % 
+HTML       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Makefile   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+PHP        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
 
