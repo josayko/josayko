@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-C++          6 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.87 % 
-JavaScript   4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-CSS          1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Makefile     1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Other        59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+C++          10 hrs 44 mins  ████████████▓░░░░░░░░░░░░   50.84 % 
+JavaScript   4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 % 
+CSS          1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Makefile     1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Solidity     48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 <!--END_SECTION:waka-->
 
