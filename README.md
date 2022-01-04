@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
-C++          6 hrs 54 mins   ██████████████▓░░░░░░░░░░   58.84 % 
-Python       2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
-TypeScript   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+C++          6 hrs 54 mins   ███████████████░░░░░░░░░░   60.35 % 
+Python       2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+TypeScript   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+HTML         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 <!--END_SECTION:waka-->
 
