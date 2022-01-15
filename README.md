@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josayko&label=Profile%20views&color=0e75b6&style=flat" alt="josayko" /> </p>
 
-- 🌱 I’m currently learning **C++, Python, Django, Rust**
+- 🌱 I’m currently learning **C++, Django, Solidity, Rust**
 
 - 💬 Ask me about **Linux, Web development**
 
