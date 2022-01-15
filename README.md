@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-C++          5 hrs 27 mins   ████████████░░░░░░░░░░░░░   47.40 % 
-Markdown     2 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 % 
-Python       1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-TypeScript   59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+C++          4 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.42 % 
+Markdown     2 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 % 
+Python       1 hr 53 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
+TypeScript   59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 <!--END_SECTION:waka-->
 
