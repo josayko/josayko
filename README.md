@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josayko&label=Profile%20views&color=0e75b6&style=flat" alt="josayko" /> </p>
 
-- 🌱 I’m currently learning **Vue 3, Nest JS, Django**
+- 🌱 I’m currently learning **Solidity, Vyper, Rust**
 
 - 💬 Ask me about **Linux, Web development**
 
