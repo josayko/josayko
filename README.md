@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **josayko@pm.me**
 
+<h3 align="left">See also:</h3>
+
+- **[42-josaykos](https://github.com/42-josaykos)**, my projects at [42 school](https://42.fr/en/homepage/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/josayko_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonnychinda" height="30" width="40" /></a>
