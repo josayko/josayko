@@ -8,7 +8,8 @@
 
 <h3 align="left">See also:</h3>
 
-- **[42-josaykos](https://github.com/42-josaykos)**, my projects at [42 school](https://42.fr/en/homepage/)
+- **[42-josaykos](https://github.com/42-josaykos)**, my other projects at [42 school](https://42.fr/en/homepage/)
+- **[josayko-courses](https://github.com/josayko-courses)**, learning projects, an overview of what I am actually learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
