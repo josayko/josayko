@@ -20,12 +20,14 @@ overview of what I am actually learning
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <div>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
+    <a href="https://www.typescriptlang.org/">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+        alt="typescript"
+        width="40"
+        height="40"
+      />
+    </a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       alt="typescript"
