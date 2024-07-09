@@ -12,10 +12,8 @@
 
 <h3 align="left">See also:</h3>
 
-- **[42-josaykos](https://github.com/42-josaykos)**, for my other projects at [42
-school](https://42.fr/en/homepage/)
-- **[josayko-courses](https://github.com/josayko-courses)**, for an
-overview of what I am actually learning
+- **[42-josaykos](https://github.com/42-josaykos)**, for my student projects at [42](https://42.fr/en/homepage/)
+- **[josayko-courses](https://github.com/josayko-courses)**, for my learning projects from courses, tutorial or books
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,6 +35,18 @@ overview of what I am actually learning
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+      alt="angular"
       width="40"
       height="40"
     />
