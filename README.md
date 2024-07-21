@@ -16,7 +16,7 @@
 - **[josayko-courses](https://github.com/josayko-courses)**, for my learning projects from courses, tutorials or books
 - **[josayko-boilerplate](https://github.com/josayko-boilerplate)**, for project templates I've made to refer when needed
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools I use professionnaly:</h3>
 <p align="left">
   <div>
     <a href="https://www.typescriptlang.org/">
@@ -55,9 +55,42 @@
   <div>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
-      alt="typescript"
+      alt="neovim"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+     <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
+      alt="docker"
       width="40"
       height="40"
     />
   </div>
 </p>
+<h3 align="left">Languages and tools I'd like to learn:</h3>
+<div>
+   <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg"
+      alt="elixir"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg"
+      alt="phoenix"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+      alt="golang"
+      width="40"
+      height="40"
+    />
+</div>
