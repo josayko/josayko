@@ -75,22 +75,28 @@
 </p>
 <h3 align="left">Languages and tools I'd like to learn:</h3>
 <div>
+  <a href="https://elixir-lang.org/">
    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg"
       alt="elixir"
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://www.phoenixframework.org"/>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg"
       alt="phoenix"
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://go.dev/">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
       alt="golang"
       width="40"
       height="40"
     />
+  </a>
 </div>
