@@ -16,7 +16,7 @@
 - **[josayko-courses](https://github.com/josayko-courses)**, for my learning projects from courses, tutorials or books
 - **[josayko-boilerplate](https://github.com/josayko-boilerplate)**, for project templates I've made to refer when needed
 
-<h3 align="left">Languages and tools I use professionnaly:</h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="left">
   <div>
     <a href="https://www.typescriptlang.org/">
@@ -68,6 +68,12 @@
      <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
       alt="docker"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+      alt="python"
       width="40"
       height="40"
     />
