@@ -14,7 +14,7 @@
 
 - **[42-josaykos](https://github.com/42-josaykos)**, for my student projects at [42](https://42.fr/en/homepage/)
 - **[josayko-courses](https://github.com/josayko-courses)**, for my learning projects from courses, tutorials or books
-- **[josayko-boilerplate](https://github.com/josayko-boilerplate)**, for project templates I've made to refer when needed
+- **[josayko-boilerplate](https://github.com/josayko-boilerplate)**, for helpful templates repos
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
